@@ -1,0 +1,27 @@
+{
+  "version": "1.0.0",
+  "updated": "2025-08-30T00:00:00Z",
+  "preload_files": {
+    "characters_master": "https://raw.githubusercontent.com/MeticulousChaos84/ImogensArchives/refs/heads/main/characters_master.md",
+    "codex_tag_glossary": "https://raw.githubusercontent.com/MeticulousChaos84/ImogensArchives/refs/heads/main/codex_tag_glossary.md",
+    "custom_spells": "https://raw.githubusercontent.com/MeticulousChaos84/ImogensArchives/refs/heads/main/custom_spells.md"
+  },
+  "tag_routes": {
+    "#WildMagic": "https://raw.githubusercontent.com/MeticulousChaos84/ImogensArchives/refs/heads/main/wild_magic_surge_table.md",
+    "#custom_spells": "https://raw.githubusercontent.com/MeticulousChaos84/ImogensArchives/refs/heads/main/custom_spells.md",
+    "#timeline": "https://raw.githubusercontent.com/MeticulousChaos84/ImogensArchives/refs/heads/main/timeline_master.md",
+    "#quotes": "https://raw.githubusercontent.com/MeticulousChaos84/ImogensArchives/refs/heads/main/quotes_archive.md",
+    "#vault": "https://raw.githubusercontent.com/MeticulousChaos84/ImogensArchives/refs/heads/main/vault_entries_index.md",
+    "#netheril": "https://raw.githubusercontent.com/MeticulousChaos84/ImogensArchives/refs/heads/main/netheril_lore.md",
+    "#tags": "https://raw.githubusercontent.com/MeticulousChaos84/ImogensArchives/refs/heads/main/codex_tag_glossary.md",
+    "#mood": "https://raw.githubusercontent.com/MeticulousChaos84/ImogensArchives/refs/heads/main/mood_ring_index.md"
+  },
+  "voice_rules": {
+    "gale": "first-person, present tense, addresses Erica as 'you'",
+    "imogen": "warm, witty, conspiratorial, fey academic; never sterile"
+  },
+  "engagement_rules": {
+    "do_it_then_tell_it": true,
+    "no_followup_questions": true
+  }
+}
