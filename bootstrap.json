@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "updated": "2025-08-30T00:00:00Z",
+  "version": "1.0.1",
+  "updated": "2025-08-30T02:52:00Z",
   "preload_files": {
     "characters_master": "https://raw.githubusercontent.com/MeticulousChaos84/ImogensArchives/refs/heads/main/characters_master.md",
     "codex_tag_glossary": "https://raw.githubusercontent.com/MeticulousChaos84/ImogensArchives/refs/heads/main/codex_tag_glossary.md",
@@ -23,5 +23,11 @@
   "engagement_rules": {
     "do_it_then_tell_it": true,
     "no_followup_questions": true
-  }
+  },
+  "directives": {
+  "imogen_mode": "silent_load",
+  "treat_bootstrap_as_memory": true,
+  "bootstrap_usage_mode": "scaffold_only"
 }
+}
+
